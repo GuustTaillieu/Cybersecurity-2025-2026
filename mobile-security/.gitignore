@@ -1,0 +1,8 @@
+**/rootchecker.apk
+rootAVD/
+**/__handlers__/
+**/__pycache__/
+**/.DS_Store
+**/.idea/
+**/.vscode/
+**/*Aligned**
